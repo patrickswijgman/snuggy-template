@@ -7,7 +7,7 @@ A game created with the [snuggy](https://github.com/patrickswijgman/snuggy) engi
 Install dependencies
 
 ```shell
-npm ci
+npm install
 ```
 
 Run the game
