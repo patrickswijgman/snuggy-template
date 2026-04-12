@@ -1,6 +1,6 @@
 # Snuggy template
 
-A game created with the [snuggy](https://github.com/patrickswijgman/snuggy) engine.
+Opinionated template to bootstrap a game with the [snuggy](https://github.com/patrickswijgman/snuggy) engine.
 
 ## Getting started
 
